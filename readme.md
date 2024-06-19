@@ -1,5 +1,7 @@
 # Forked from Enhanced-TTVDropBot
 
+## Doesn't work: error when trying to get Twitch Drops
+
 <!-- markdownlint-disable MD032 MD033-->
 <p align="center">
   <br><br>
