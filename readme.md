@@ -1,50 +1,30 @@
+# Forked from Enhanced-TTVDropBot
+
 <!-- markdownlint-disable MD032 MD033-->
 <p align="center">
   <br><br>
-<img src="https://i.imgur.com/1GsJiTG.png" alt="Discord"><h3 align="center">Farms automatically Twitch Drops, Points & Subscriptions for you!</h3></p>
-<p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/PockySweet/Enhanced-TTVDropBot/tree/main">
-  <img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/HerokuDeploy.svg" alt="Deploy" height="30">
-</a>
-      <a href="https://railway.app/new/template/WLQZfq?referralCode=ljmXT2">
-<img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/RailwayDeploy.svg" alt="Deploy on Railway" height="30">
-      </a>
-      <a href="https://deploy.cloud.run?git_repo=https://github.com/PockySweet/Enhanced-TTVDropBot">
-<img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/GoogleDeploy.svg" alt="Deploy on Google Cloud" height="30">
-      </a>
-      <a href="https://replit.com/new/github/PockySweet/Enhanced-TTVDropBot">
-<img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/ReplitDeploy.svg" alt="Run on Repl.it" height="30">
-      </a>
-<a href="https://render.com/deploy?repo=https://github.com/PockySweet/Enhanced-TTVDropBot">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="30">
-</a>
-      </p>
+<img src="https://i.imgur.com/1GsJiTG.png" alt="Discord" width=50%><h3 align="center">Farms automatically Twitch Drops, Points & Subscriptions for you!</h3></p>
 
-<h1></h1>
+<!-- <h1></h1>
 <img src="https://i.imgur.com/eRx6oIV.png" alt="Discord" height="40">
 <p>
-
 Twitch has recently updated their drop claiming system, now including anti-bot detection. In the meantime, while the community finds a way to bypass it or new methods to claim them efficiently, we suggest you disable AutoClaim.
 
 <h6>Don't worry, the bot will still farm the watch time; you will just need to manually claim them!</h6></p>
 
 <h3>❗ UPDATE: We found a workaround!</h3>
-🩹 🡢 <a href="#1%EF%B8%8F%E2%83%A3%EF%B8%8F-bypass-anti-bot-for-autoclaim" title="Optional title">Follow these steps carefully to bypass all issues</a>
+🩹 🡢 <a href="#1%EF%B8%8F%E2%83%A3%EF%B8%8F-bypass-anti-bot-for-autoclaim" title="Optional title">Follow these steps carefully to bypass all issues</a> -->
 
 <h1></h1>
 <p align="center">
-  <a href="https://github.com/Giingu/Enhanced-TTVDropBot/issues">
-    <img src="https://img.shields.io/github/stars/Giingu/Enhanced-TTVDropBot?color=333&style=for-the-badge&logo=github" alt="@Giingu/Enhanced-TTVDropBot issues"/>
+  <a href="https://github.com/Koenraad007/TTVDropsBot2024/issues">
+    <img src="https://img.shields.io/github/stars/Koenraad007/TTVDropsBot2024?color=333&style=for-the-badge&logo=github" alt="@Koenraad007/TTVDropsBot2024 issues"/>
   </a>
-    <a href="https://github.com/Giingu/Enhanced-TTVDropBot/pulls">
-    <img src="https://img.shields.io/github/commit-activity/y/Giingu/Enhanced-TTVDropBot?color=blue&style=for-the-badge&logo=github" alt="@Giingu/Enhanced-TTVDropBot pull requests"/>
+    <a href="https://github.com/Koenraad007/TTVDropsBot2024/pulls">
+    <img src="https://img.shields.io/github/commit-activity/y/Koenraad007/TTVDropsBot2024?color=blue&style=for-the-badge&logo=github" alt="@Koenraad007/TTVDropsBot2024 pull requests"/>
   </a>
-  <a href="https://github.com/Giingu/Enhanced-TTVDropBot/pulls">
-    <img src="https://img.shields.io/github/last-commit/Giingu/Enhanced-TTVDropBot?color=blue&style=for-the-badge&logo=github" alt="Giingu/Enhanced-TTVDropBot requests"/>
-  </a>
-      <br>
-        <a href="https://discord.gg/rV26FZ2upF">
-<img src="https://img.shields.io/discord/728708207907962900?color=7289DA&label=Support&logo=discord&style=for-the-badge" alt="Discord">
+  <a href="https://github.com/Koenraad007/TTVDropsBot2024/pulls">
+    <img src="https://img.shields.io/github/last-commit/Koenraad007/TTVDropsBot2024?color=blue&style=for-the-badge&logo=github" alt="Koenraad007/TTVDropsBot2024 requests"/>
   </a>
 </p>
 <br />
@@ -77,9 +57,9 @@ Twitch has recently updated their drop claiming system, now including anti-bot d
 * Fixed the drop claiming crashes, now the bot will move to a new game instead
 * Modified the point claiming system slightly to mitigate some crashes
 
-<br />
+<!-- <br /> -->
 
-<h2>1️⃣🛠️ Bypass anti-bot for autoclaim</h2>
+<!-- <h2>1️⃣🛠️ Bypass anti-bot for autoclaim</h2>
 <ul>
 <li> How to automatically claim drops
 <ul>
@@ -101,7 +81,7 @@ Twitch has recently updated their drop claiming system, now including anti-bot d
 <li>Copy the <code>auth-token</code> and replace <code>replaceme</code> from above with your token</li><br>
 <img src="https://i.imgur.com/1kj32dP.png" alt="Cookie Token">
 <li>Save and close the editor you used then relaunch the bot.</li>
-</ul></li></ul>
+</ul></li></ul> -->
 
 ## ⚡ **Installation**
 <p><img src="https://user-images.githubusercontent.com/79219650/194732116-2a28b6b3-934c-4e16-869f-c8ccf367216e.png" alt="Docker" width="200"></p>
